@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: date.issue
+---
+testFramework: junit
+sourceLanguage: java
